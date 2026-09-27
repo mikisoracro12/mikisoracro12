@@ -47,4 +47,7 @@
   <img src="https://count.getloli.com/@:RikuSato0?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+<p align="center">
+  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
+</p>
 ###
