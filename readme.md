@@ -47,6 +47,46 @@
   <img src="https://count.getloli.com/@:RikuSato0?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+<table>
+<tr>
+<td>
+
+<strong>Frontend</strong><br> <sub>React · Next.js · TypeScript</sub>
+
+</td>
+<td>
+
+<strong>Backend</strong><br> <sub>Python · Node.js · Java · Go</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Cloud</strong><br> <sub>AWS · Azure · GCP · Kubernetes</sub>
+
+</td>
+<td>
+
+<strong>AI</strong><br> <sub>LLM · RAG · LangChain</sub>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="42%" align="center">
+
+<img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
+
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
   <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
 </p>
