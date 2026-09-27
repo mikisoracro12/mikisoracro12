@@ -107,7 +107,5 @@ for real-world production environments.
 </tr>
 </table>
 
-<p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
-</p>
+
 ###
