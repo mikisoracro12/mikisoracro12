@@ -47,6 +47,26 @@
   <img src="https://count.getloli.com/@:RikuSato0?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+<table align="center" width="96%">
+<tr>
+
+<td width="58%" valign="top">
+
+<h2>Engineering With Purpose</h2>
+
+<p>
+I design and build modern software systems across the
+<strong>frontend, backend, cloud, data, and AI layers.</strong>
+</p>
+
+<p>
+My focus is on turning complicated product requirements into
+clean, scalable, secure, and maintainable systems that are ready
+for real-world production environments.
+</p>
+
+<br>
+
 <table>
 <tr>
 <td>
