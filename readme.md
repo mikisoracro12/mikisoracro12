@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both" class="main-style-box">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
